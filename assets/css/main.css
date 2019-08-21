@@ -1614,8 +1614,8 @@ body.is-preload #header {
 #main .thumb>h2 {
   pointer-events: none;
   bottom: 1.875em;
-  font-size: 0.8em;
-  left: 2.1875em;
+  font-size: 1em;
+  /* left: 2.1875em; */
   margin: 0;
   position: absolute;
   z-index: 1;
